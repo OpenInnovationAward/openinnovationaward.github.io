@@ -29,10 +29,15 @@
 <h2>Judging</h2>
 
 <p>If you contribute $50 or more, you are invited to cast one vote to help decide the winners! 
+	Voting will follow a multiple-winner
+	<a href="http://en.wikipedia.org/wiki/Instant-runoff_voting"> Instant Runoff Voting</a> scheme.
 	Please see the <a href="/">applicant information page</a> for details on the selection criteria.
 	</p>
 
 <h2>Contributions</h2>
+
+<p>An open ledger of pledges received so far:
+	</p>
 
 <div style="text-align:center;">
 <iframe style="scrolling:no; width:485px; height:160px; border:2px solid black;" 
