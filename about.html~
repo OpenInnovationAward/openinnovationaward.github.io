@@ -19,7 +19,6 @@
 div.content-container {
 width:800px;
 float:center;
-margin:0 auto 0 auto;
 border:4px dotted black;
 padding:10px 20px 0px 20px;
 border-radius:25px;
@@ -91,7 +90,7 @@ padding:0px 10px 0px 10px;
 <br />
 
 <div class="navigation">
-	<a href=".." style="font-weight:bold;">Contribute</a>
+	<a href=".." style="font-weight:bold;">Overview</a>
 		&#x2014
 	<a style="font-weight:bold;">About Us</a>
 		&#x2014
