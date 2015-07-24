@@ -88,6 +88,26 @@
 	</div>
 </div>
 
+<div class="about-container">
+	<div class="about-photo-container">
+		<img class="about-photo" src="img/brian-leyde.jpg" />
+	</div>
+	<div class="about-bio">
+		<p>
+			Brian Leyde did the cool thing and graduated from State High in 2006
+			and Penn State in 2011. Seventeen years of school wasn't enough, so he moved
+			to <a href="https://www.google.com/maps/place/Madison,+WI/@43.0849935,-89.4064204,12z/data=!3m1!4b1!4m2!3m1!1s0x8806536d3a2019ff:0x4e0cfcb5ba484198">
+			a town that looks conspiculously like State College</a> and spent a couple more years
+			at <a href="https://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Madison">
+			a land grant school that looks conspiculously like Penn State</a>.
+			Another piece of paper in hand, he decided to stay there a while longer
+			and	work at a startup (aka Do All The Things).
+			A semi-famous scam artist shares his name, so
+			<a href="https://www.google.com/search?q=Brian+Leyde">don't Google him</a>.
+		</p>
+	</div>
+</div>
+
 
 <div class="footer">
 	<hr />
