@@ -49,7 +49,7 @@
 			<img src="img/BC-Pacifica.png" width="200px" />
 		</div>
 
-		<div class="about-bio" style="width:475px; float:right; border:none; border-radius:10px; background-color:#bdbdbd; padding:10px;">
+		<div class="about-bio" style="width:475px; float:right; border:none; border-radius:10px; background-color:#bdbdbd; padding:10px 0px 10px 0px;">
 			<p>
 				Brandon Curtis is a pretty cool guy doing a PhD in biochemical engineering at UC Berkeley.
 			</p>
