@@ -25,6 +25,25 @@ padding:10px 20px 0px 20px;
 border-radius:25px;
 }
 
+div.banner {
+float:center;
+text-align:center;
+margin:0 auto 0 auto;
+background-color:#000000;
+padding:7px;
+border-radius:10px;
+}
+
+div.navigation {
+float:center;
+width:500px;
+text-align:center;
+margin:0 auto 0 auto;
+background-color:#FFFF94;
+padding:2px;
+border-radius:2px;
+}
+
 div.about-container {
 width:750px;
 border-radius:10px;
@@ -65,13 +84,13 @@ padding:0px 10px 0px 10px;
 	State High Open Innovation Scholarship
 </h1>
 
-<div style="float:center; text-align:center; margin:0 auto 0 auto; background-color:#000000; padding:7px; border-radius:10px;">
+<div class="banner">
 	<a href="/"><img src="img/Bombeta_de_Llum-200px.JPG" width="200px"  /></a>
 	</div>
 
 <br />
 
-<div class="navigation" style="float:center; width:500px; text-align:center; margin:0 auto 0 auto; background-color:#FFFF94; padding:2px; border-radius:2px;">
+<div class="navigation">
 	<a href=".." style="font-weight:bold;">Contribute</a>
 		&#x2014
 	<a style="font-weight:bold;">About Us</a>
